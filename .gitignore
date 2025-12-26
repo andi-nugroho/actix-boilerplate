@@ -1,0 +1,9 @@
+/target
+.env
+*.log
+.DS_Store
+*.orig
+*.rej
+*.swp
+*.swo
+*~
